@@ -1,4 +1,14 @@
 # Photoshop-practices
+
+# Dress color change
+![dress color change](https://github.com/user-attachments/assets/8d6d7bc5-eb20-4547-97d1-058acbb4a9c3)
+![red to maroon dress](https://github.com/user-attachments/assets/cf82df45-109a-4e92-89a4-9954fc6c450b)
+![dress color change](https://github.com/user-attachments/assets/be849191-d19f-4efb-af1e-100c02d7da83)
+
+# Hairy complex background removal
+![hairy complex bg removal](https://github.com/user-attachments/assets/906fb4b6-0160-4cc7-b24f-5b2ae7c02065)
+![hairy complex bg removal](https://github.com/user-attachments/assets/505421e5-c35a-42ce-a413-e1f0e9d161ba)
+
 # Removing acne and pimples from face
 ![New Project](https://github.com/user-attachments/assets/344926e7-51de-439f-a1db-5f5b62214bae)
 
@@ -20,3 +30,4 @@
 
 # Social media design
 ![Unleash_your_potential](https://github.com/user-attachments/assets/663b0562-19d6-43ff-b5f7-606aa528827a)
+
