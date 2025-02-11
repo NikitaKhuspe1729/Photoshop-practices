@@ -18,3 +18,5 @@
 ![eye closeup digital art](https://github.com/user-attachments/assets/d8248180-3bad-4108-9553-8da430030108)
 ![13](https://github.com/user-attachments/assets/8cd04f18-d918-458c-952e-c37ddb650f07)
 
+# Social media design
+![Unleash_your_potential](https://github.com/user-attachments/assets/663b0562-19d6-43ff-b5f7-606aa528827a)
