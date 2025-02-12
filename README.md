@@ -9,6 +9,8 @@
 ![hairy complex bg removal](https://github.com/user-attachments/assets/906fb4b6-0160-4cc7-b24f-5b2ae7c02065)
 ![hairy complex bg removal](https://github.com/user-attachments/assets/505421e5-c35a-42ce-a413-e1f0e9d161ba)
 
+# Girl makeup
+
 # Making blurry background behind subject
 ![making blurry background sparrow](https://github.com/user-attachments/assets/eab0dc06-ad7a-4aef-a7d0-871d085779d8)
 ![8](https://github.com/user-attachments/assets/4017442f-1aed-4329-9775-0f20b6514180)
